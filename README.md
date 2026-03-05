@@ -67,7 +67,8 @@ cp .env.example .env.local
 VITE_GEMINI_API_KEY=你的_API_Key
 ```
 
-> [!WARNING] 不要将 API Key 提交到公开仓库。
+> [!WARNING]
+> 不要将 API Key 提交到公开仓库。
 
 ### 4️⃣ 启动开发环境
 
